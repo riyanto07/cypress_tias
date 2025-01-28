@@ -10,7 +10,7 @@ describe('Login User', () => {
     cy.wait(2000)
   }
 )
-
+  //belajar push
   // it('klik_product', () => {
   //   cy.xpath("(//h3[normalize-space()='Featured Products'])[1]").scrollIntoView();
   //   cy.xpath("(//span[normalize-space()='Nike zoom fly'])[1]").click()
